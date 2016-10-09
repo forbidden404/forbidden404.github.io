@@ -8,7 +8,7 @@
 # Site settings
 title: fssn
 description: > # this means to ignore newlines until "baseurl:"
-  A minimalistic website for Francisco Soares, developer
+  A minimalistic website made by Francisco Soares with Jekyll.
 repository: https://github.com/forbidden404
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://forbidden404.github.io  # the base hostname & protocol for your site
