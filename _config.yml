@@ -30,8 +30,8 @@ email: francisco.ssn94@gmail.com
 navigation:
   - text: Home
     url: /
-  - text: Posts
-    url: /posts
+  - text: Research
+    url: /research
   - text: Projects
     url: /projects
 
