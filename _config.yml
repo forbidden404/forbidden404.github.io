@@ -30,13 +30,12 @@ email: francisco.ssn94@gmail.com
 navigation:
   - text: Home
     url: /
+  - text: Book Reviews
+    url: /reviews
   - text: Research
     url: /research
   - text: Projects
     url: /projects
-  - text: Book Reviews
-    url: /reviews
-
 projects:
   - name: Competitive Programming
     description: A repository filled with coding challenges to practice Competitive Programming
