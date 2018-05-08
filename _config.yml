@@ -34,6 +34,8 @@ navigation:
     url: /research
   - text: Projects
     url: /projects
+  - text: Book Reviews
+    url: /reviews
 
 projects:
   - name: Competitive Programming
