@@ -30,24 +30,10 @@ email: francisco.ssn94@gmail.com
 navigation:
   - text: Home
     url: /
-  - text: Book Reviews
-    url: /reviews
-  - text: Research
-    url: /research
-  - text: Projects
-    url: /projects
 projects:
   - name: Competitive Programming
     description: A repository filled with coding challenges to practice Competitive Programming
     link: https://github.com/forbidden404/competitive-programing
-
-    # - name: Snake
-    # description: A simple snake game made using C++ and SDL2.0
-    # link: https://github.com/forbidden404/snake
-
-    #  - name: Stack Exchange Miner
-    #    description: A tool to scrap the social accounts from top developers on Stack Exchange
-    #    link: https://github.com/forbidden404/stackexchange-miner
 
 social:
   - service: github
@@ -56,6 +42,9 @@ social:
   - service: twitter
     username: forbidden404
     link: https://twitter.com/forbidden404
+  - service: instagram
+    username: fssn404
+    link: https://instagram.com/fssn404
 
 # Plugins
 gems:
